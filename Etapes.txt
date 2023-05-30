@@ -1,0 +1,14 @@
+
+____Image microservice 
+Creer le dockerFile dans le projet
+executer : docker -t spring-boot-docker.jar 
+docker build -t spring-boot-docker.jar
+docker run -p 8080 spring
+
+-----  Image mySQL 
+
+Docker run -d -p 3306:3306 --name mysqldb -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=user_cloud
+
+
+
+docker run --name image-db-auth -e MYSQL_ROOT_PASSWORD=Mypass -p 3307:3306 mysql
