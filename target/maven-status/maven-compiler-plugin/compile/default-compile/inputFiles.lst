@@ -1,0 +1,13 @@
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\security\SecParams.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\service\UserServiceImpl.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\repos\UserRepository.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\entities\User.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\service\UserService.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\security\JWTAuthorizationFilter.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\entities\Role.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\security\MyUserDetailsService.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\security\SecurityConfig.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\repos\RoleRepository.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\security\JWTAuthenticationFilter.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\UsersMicroserviceApplication.java
+C:\Bureau\4A\Semestre 2\Cloud computing\Projet\users-microservice\src\main\java\com\polytech\usersmicroservice\restControllers\UserRestController.java
